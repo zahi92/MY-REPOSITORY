@@ -1,7 +1,2 @@
 calkowita zmiana
 plus dodatek
-<<<<<<< HEAD
-=======
-sadjaiojdsiaojdo
-sadajosdiaojdi
->>>>>>> 6fad54c3cfcda38a61856edbd94c92680de94ff6
