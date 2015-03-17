@@ -1,3 +1,7 @@
 calkowita zmiana
 plus dodatek
+<<<<<<< HEAD
 1
+=======
+2
+>>>>>>> origin/master
